@@ -1,7 +1,7 @@
 <template>
   <div id="antv">
     <div id="c1">
-      bbb ccc dd
+      bbb ccc dd 
       </div> 
   </div>
 </template>
