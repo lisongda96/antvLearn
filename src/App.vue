@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-aab ccc dd  fff eee
+aab ccc dd  fff 
     <ant-v />
   </div>
 </template>
