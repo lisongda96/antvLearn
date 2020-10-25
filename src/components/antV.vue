@@ -1,6 +1,8 @@
 <template>
   <div id="antv">
-    <div id="c1"></div> 
+    <div id="c1">
+      bbb
+      </div> 
   </div>
 </template>
 <script>
